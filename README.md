@@ -1,0 +1,1 @@
+# Gujarati-Rule-Based-Stemmer
